@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/binumvij/qr-code-1)
-- Live Site URL: [Add live site URL here](https://qr-code-1-binumvij.vercel.app/)
+- Solution URL: [GitHub](https://github.com/binumvij/qr-code-1)
+- Live Site URL: [Vercel](https://qr-code-1-binumvij.vercel.app/)
 
 ## My process
 
